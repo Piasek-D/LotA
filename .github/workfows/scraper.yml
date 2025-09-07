@@ -1,4 +1,4 @@
-name: AZair Scraper
+name: AZairScraper
 
 on:
   schedule:
